@@ -1,0 +1,5 @@
+Nodes,x,y,P_jointX,P_jointY,M_joint,defln_x,defln_y,rot,element,node_i,node_j,angX,L,EI,AE,FEM_frd,FEM_back,R_xi,R_yi,R_xj,R_yj
+A,0,0,0,0,0,0,0,0,1,A,B,90,4,2660,2000000,0,0,0,0,0,0
+B,0,4,10,0,0,x,x,x,2,B,C,0,4,2660,2000000,-24,24,0,24,0,24
+C,4,4,0,0,0,x,x,x,3,C,D,270,4,2660,2000000,0,0,0,0,0,0
+D,4,0,0,0,0,0,0,0,,,,,,,,,,,,,
